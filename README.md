@@ -1,2 +1,2 @@
-# pruebaT-nicaNexura
+# pruebaNexuraInt
 Prueba técnica Nexura Internacional
