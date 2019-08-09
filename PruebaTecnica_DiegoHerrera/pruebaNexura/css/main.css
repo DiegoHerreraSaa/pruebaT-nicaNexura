@@ -1,0 +1,9 @@
+h1{
+    margin-top: 50px;
+}
+.btn:hover{
+    cursor: pointer;
+}
+#btnNuevo{
+    margin-bottom: 10px;
+}
